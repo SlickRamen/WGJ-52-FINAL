@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "f0abcb00-8ddf-4513-a213-4a04883e2696",
+            "Value": {
+                "id": "8e98611d-a9ab-4c76-888a-3aa4f9603c89",
+                "resourcePath": "sprites\\spr_female_walking_body\\spr_female_walking_body.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "29163d59-4a37-4687-b91c-50020ea9bf9b",
